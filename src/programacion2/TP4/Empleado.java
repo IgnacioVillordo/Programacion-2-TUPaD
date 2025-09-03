@@ -1,4 +1,4 @@
-package programacion2.TP3;
+package programacion2.TP4;
 
 public class Empleado {
     int id;
