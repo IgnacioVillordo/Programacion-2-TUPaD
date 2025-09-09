@@ -1,8 +1,8 @@
 package programacion2.TP3;
 
 public class NaveEspacial {
-    String nombre;
-    int combustible;
+    private String nombre;
+    private int combustible;
 
     public NaveEspacial(String nombre, int combustible) {
         this.nombre = nombre;
