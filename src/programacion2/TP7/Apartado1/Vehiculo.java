@@ -1,4 +1,4 @@
-package programacion2.TP7;
+package programacion2.TP7.Apartado1;
 
 public class Vehiculo {
     private String marca, modelo;

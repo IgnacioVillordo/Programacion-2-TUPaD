@@ -10,6 +10,15 @@
 <project name="Programacion2" default="default" basedir=".">
     <description>Builds, tests, and runs the project Programacion2.</description>
     <import file="nbproject/build-impl.xml"/>
+    <resources>
+        <resource>
+            <directory>src/com</directory>
+            <targetPath>com</targetPath>
+            <includes>
+                <include>**/*.xml</include>
+            </includes>
+        </resource>
+    </resources>
     <!--
 
     There exist several targets which are by default empty and which can be 
