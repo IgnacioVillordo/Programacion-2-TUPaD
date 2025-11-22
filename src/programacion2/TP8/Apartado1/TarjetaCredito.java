@@ -1,4 +1,4 @@
-package programacion2.TP8;
+package programacion2.TP8.Apartado1;
 
 public class TarjetaCredito implements PagoConDescuento {
     private static final double PORCENTAJE_DESCUETNO = 0.1;

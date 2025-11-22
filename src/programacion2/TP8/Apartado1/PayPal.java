@@ -1,4 +1,4 @@
-package programacion2.TP8;
+package programacion2.TP8.Apartado1;
 
 public class PayPal implements Pago{
     @Override
